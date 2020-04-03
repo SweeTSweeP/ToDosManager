@@ -1,15 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4aecb94-ccf5-4437-8103-745326765459" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/Migrations/20200403142329_initial.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/Migrations/20200403142329_initial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/Migrations/ToDosManagerDbContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerBackSide.Data.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Day.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Record.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/TaskStatus.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/ToDosManagerBackSide.Domain.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/ToDosManagerBackSide.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/ToDosManagerBackSide.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LocalDB" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LocalDB" type="feb32156:DbDataSourceImpl" />
+        <item name="ToDosAppData: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="LocalDB" type="feb32156:DbDataSourceImpl" />
+        <item name="ToDosAppData: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/8/ControllerEndpointRouteBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/TaskStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Record.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Day.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Record.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/TaskStatus.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Day.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerDbContext.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Family\repos\ToDosManager\ToDosManagerBackSide\.idea\.idea.ToDosManagerBackSide\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1a1xSU0N96PEMf2DrKE6sOPRXId" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ToDosManagerBackSide">
     <configuration name="ToDosManagerBackSide" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -42,5 +146,72 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4aecb94-ccf5-4437-8103-745326765459" name="Default Changelist" comment="" />
+      <created>1585916901618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585916901618</updated>
+      <workItem from="1585916907157" duration="8632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585924521548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="187" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585924521548" />
+    <state width="1206" height="278" key="GridCell.Tab.0.bottom" timestamp="1585918904327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1206" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
+    <state width="1206" height="278" key="GridCell.Tab.0.center" timestamp="1585918904327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1206" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
+    <state width="1206" height="278" key="GridCell.Tab.0.left" timestamp="1585918904327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1206" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
+    <state width="1206" height="278" key="GridCell.Tab.0.right" timestamp="1585918904327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1206" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
+    <state width="229" height="457" key="HiddenNamespacesPopup" timestamp="1585924530658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="229" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1585924530658" />
+    <state x="218" y="255" key="Rider.ProjectTemplateDialog.Size" timestamp="1585918965521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="218" y="255" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1585918965521" />
+    <state x="96" y="168" key="SettingsEditor" timestamp="1585924297160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="96" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585924297160" />
   </component>
 </project>

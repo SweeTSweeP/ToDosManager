@@ -3,6 +3,7 @@
   <component name="ContentModelStore">
     <e p="C:\Users\Family\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
     <e p="C:\Users\Family\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Family\.Rider2019.3\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\Family\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Family\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ToDosManagerBackSide.-1116033804.00" t="ExcludeRecursive" />
     <e p="C:\Users\Family\repos\ToDosManager\ToDosManagerBackSide" t="IncludeFlat">
@@ -12,7 +13,7 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
-          <e p="WeatherForecastController.cs" t="Include" />
+          <e p="ToDoController.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -27,7 +28,39 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="ToDosManagerBackSide.csproj" t="IncludeRecursive" />
-        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="ToDosManagerBackSide.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200403142329_initial.cs" t="Include" />
+          <e p="20200403142329_initial.Designer.cs" t="Include" />
+          <e p="ToDosManagerDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ToDosManagerBackSide.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ToDosManagerBackSide.Data.csproj" t="IncludeRecursive" />
+        <e p="ToDosManagerDbContext.cs" t="Include" />
+      </e>
+      <e p="ToDosManagerBackSide.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Day.cs" t="Include" />
+          <e p="Record.cs" t="Include" />
+          <e p="TaskStatus.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ToDosManagerBackSide.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ToDosManagerBackSide.Domain.csproj" t="IncludeRecursive" />
       </e>
       <e p="ToDosManagerBackSide.sln" t="IncludeFlat" />
     </e>

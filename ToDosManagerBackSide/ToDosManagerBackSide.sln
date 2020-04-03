@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDosManagerBackSide", "ToDosManagerBackSide\ToDosManagerBackSide.csproj", "{9A56EBC9-F2FE-4DC2-A221-18033FD4705E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDosManagerBackSide.Domain", "ToDosManagerBackSide.Domain\ToDosManagerBackSide.Domain.csproj", "{52C96C2B-64E6-42ED-AE4C-5CE60E8B133D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDosManagerBackSide.Data", "ToDosManagerBackSide.Data\ToDosManagerBackSide.Data.csproj", "{9992A670-8F89-4A2C-B71D-C2EAE7ADBBA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{9A56EBC9-F2FE-4DC2-A221-18033FD4705E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A56EBC9-F2FE-4DC2-A221-18033FD4705E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A56EBC9-F2FE-4DC2-A221-18033FD4705E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C96C2B-64E6-42ED-AE4C-5CE60E8B133D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C96C2B-64E6-42ED-AE4C-5CE60E8B133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C96C2B-64E6-42ED-AE4C-5CE60E8B133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C96C2B-64E6-42ED-AE4C-5CE60E8B133D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9992A670-8F89-4A2C-B71D-C2EAE7ADBBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9992A670-8F89-4A2C-B71D-C2EAE7ADBBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9992A670-8F89-4A2C-B71D-C2EAE7ADBBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9992A670-8F89-4A2C-B71D-C2EAE7ADBBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

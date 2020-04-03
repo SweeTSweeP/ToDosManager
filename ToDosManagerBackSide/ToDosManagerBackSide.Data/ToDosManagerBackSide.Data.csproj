@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -13,8 +13,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ToDosManagerBackSide.Data\ToDosManagerBackSide.Data.csproj" />
+      <ProjectReference Include="..\ToDosManagerBackSide.Domain\ToDosManagerBackSide.Domain.csproj" />
     </ItemGroup>
-
 
 </Project>
