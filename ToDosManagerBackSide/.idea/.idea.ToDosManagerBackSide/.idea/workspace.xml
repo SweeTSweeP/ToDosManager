@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4aecb94-ccf5-4437-8103-745326765459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/Migrations/20200403142329_initial.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/Migrations/20200403142329_initial.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/Migrations/ToDosManagerDbContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerBackSide.Data.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Day.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Record.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/TaskStatus.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide.Domain/ToDosManagerBackSide.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDosManagerBackSide/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/ToDosManagerBackSide.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/ToDosManagerBackSide.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDosManagerBackSide/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDosManagerBackSide/Properties/launchSettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +47,15 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/8/ControllerEndpointRouteBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/TaskStatus.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Record.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Domain/Entities/Day.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide.Data/ToDosManagerDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDosManagerBackSide/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,6 +69,7 @@
         <option value="$PROJECT_DIR$/ToDosManagerBackSide/appsettings.json" />
         <option value="$PROJECT_DIR$/ToDosManagerBackSide/Startup.cs" />
         <option value="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/ToDosManagerBackSide/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/ToDosManagerBackSide/Controllers/ToDoController.cs" />
       </list>
     </option>
@@ -157,21 +143,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585916901618</updated>
-      <workItem from="1585916907157" duration="8632000" />
+      <workItem from="1585916907157" duration="9231000" />
+      <workItem from="1586008751399" duration="945000" />
+      <workItem from="1586009750542" duration="3807000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -185,22 +175,90 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="187" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585924521548" />
-    <state width="1206" height="278" key="GridCell.Tab.0.bottom" timestamp="1585918904327">
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1586011416849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1206" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
-    <state width="1206" height="278" key="GridCell.Tab.0.center" timestamp="1585918904327">
+    <state width="421" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1586011416849" />
+    <state width="1084" height="346" key="GridCell.Tab.0.bottom" timestamp="1586011298567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1206" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
-    <state width="1206" height="278" key="GridCell.Tab.0.left" timestamp="1585918904327">
+    <state width="1084" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298567" />
+    <state width="1084" height="346" key="GridCell.Tab.0.center" timestamp="1586011298567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1206" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
-    <state width="1206" height="278" key="GridCell.Tab.0.right" timestamp="1585918904327">
+    <state width="1084" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298567" />
+    <state width="1084" height="346" key="GridCell.Tab.0.left" timestamp="1586011298567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1206" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585918904327" />
+    <state width="1084" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298567" />
+    <state width="1084" height="346" key="GridCell.Tab.0.right" timestamp="1586011298567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298567" />
+    <state width="1084" height="346" key="GridCell.Tab.1.bottom" timestamp="1586011389399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586011389399" />
+    <state width="1084" height="346" key="GridCell.Tab.1.center" timestamp="1586011389399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586011389399" />
+    <state width="1084" height="346" key="GridCell.Tab.1.left" timestamp="1586011389399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586011389399" />
+    <state width="1084" height="346" key="GridCell.Tab.1.right" timestamp="1586011389399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586011389399" />
+    <state width="1084" height="346" key="GridCell.Tab.2.bottom" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.2.center" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.2.left" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.2.right" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.3.bottom" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.3.center" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.3.left" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.3.right" timestamp="1586011298424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298424" />
+    <state width="1084" height="346" key="GridCell.Tab.4.bottom" timestamp="1586011298425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298425" />
+    <state width="1084" height="346" key="GridCell.Tab.4.center" timestamp="1586011298425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298425" />
+    <state width="1084" height="346" key="GridCell.Tab.4.left" timestamp="1586011298425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298425" />
+    <state width="1084" height="346" key="GridCell.Tab.4.right" timestamp="1586011298425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="346" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586011298425" />
     <state width="229" height="457" key="HiddenNamespacesPopup" timestamp="1585924530658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,5 +271,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="96" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585924297160" />
+    <state x="229" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586009803934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="229" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586009803934" />
   </component>
 </project>
